@@ -1,0 +1,3 @@
+#!/bin/sh
+echo "starting runit service"
+sleep infinity
